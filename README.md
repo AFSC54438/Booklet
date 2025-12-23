@@ -2,8 +2,6 @@
 
 ### Booklet is a Chrome extension that provides quick access to Cambridge International (CIE) IGCSE and AS/A Level past papers through a simple and clean interface.
 
-<br>
-
 ---
 
 <br>
