@@ -68,5 +68,5 @@ Ensure there are no errors shown under the extension card.
 
 #
 
-### 5. Refresh (update) extensions
+### 6. Refresh (update) extensions
 <img width="475" height="500" alt="image" src="https://github.com/user-attachments/assets/d89a11fe-0548-43ca-b31e-975d9274469f" />
