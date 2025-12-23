@@ -38,7 +38,7 @@
 #
 
 8. Confirm the extension appears in the extensions list
-<img width="1385" height="655" alt="image" src="https://github.com/user-attachments/assets/215d5d58-8501-4eab-8dbc-9cae84860fcb" />
+<img width="500" height="236" alt="image" src="https://github.com/user-attachments/assets/215d5d58-8501-4eab-8dbc-9cae84860fcb" />
 
 
 #
