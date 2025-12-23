@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a Google Chrome extension that enables quick access to Cambridge International (CIE) IGCSE and A-Level past papers through a simple interface. :contentReference[oaicite:1]{index=1}
+This repository contains a Google Chrome extension that enables quick access to Cambridge International (CIE) IGCSE and A-Level past papers through a simple interface.
 
 ## Data Collection & Privacy
 
