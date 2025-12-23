@@ -63,6 +63,7 @@
 
 ### 2. Confirm the updated extension appears in the extensions list  
 Ensure there are no errors shown under the extension card.
+<br>
 <img width="500" height="266" alt="image" src="https://github.com/user-attachments/assets/5ff45bf2-31c0-4601-88db-0ccf74c90c90" />
 
 #
