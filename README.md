@@ -22,7 +22,7 @@
 #
 
 5. Enable **Developer mode** using the toggle in the top-right corner
-<img width="500" height="43" alt="image" src="https://github.com/user-attachments/assets/e95322b6-69df-4e08-b571-e58fea576821" />
+<img width="500" height="113" alt="image" src="https://github.com/user-attachments/assets/e95322b6-69df-4e08-b571-e58fea576821" />
 
 #
 
