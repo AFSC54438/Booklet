@@ -7,7 +7,7 @@
 ## Installation Instructions
 
 1. Click the green **Code** button on this page and select **Download ZIP**
-<img width="640" height="488" alt="Screenshot 2025-12-23 151356" src="https://github.com/user-attachments/assets/d8a4d57c-ef54-46fd-8b84-1fe970ae65da" />
+<img width="500" height="381" alt="Screenshot 2025-12-23 151356" src="https://github.com/user-attachments/assets/d8a4d57c-ef54-46fd-8b84-1fe970ae65da" />
 
 2. Extract the ZIP file to a permanent folder on your computer (**do not delete or move this folder**)
 <img width="556" height="649" alt="image" src="https://github.com/user-attachments/assets/279d0dd6-8dbe-4426-bdc2-2b0fff43d870" />
