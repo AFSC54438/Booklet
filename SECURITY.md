@@ -1,6 +1,6 @@
 # Privacy Policy  
 
-Chrome Browser extension to download PDF files to a booklet format.  
+Google Chrome Browser extension to download PDF files to a booklet format.  
 
 This extension does not collect, store, or share personal information. All processing happens locally in your browser.  
 
