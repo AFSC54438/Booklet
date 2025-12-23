@@ -30,14 +30,15 @@
 #
 
 7. Select the **extracted Booklet folder** and select the **Booklet folder inside***
-<img width="163" height="188" alt="image" src="https://github.com/user-attachments/assets/88f1e58a-c980-496e-9b1e-229b1b8c72ab" />
+<img width="433" height="500" alt="image" src="https://github.com/user-attachments/assets/88f1e58a-c980-496e-9b1e-229b1b8c72ab" />
 <br>
-<img width="619" height="84" alt="image" src="https://github.com/user-attachments/assets/903f82f6-d061-4dbb-abfa-1a23e6aec21d" />
+<img width="500" height="67" alt="image" src="https://github.com/user-attachments/assets/903f82f6-d061-4dbb-abfa-1a23e6aec21d" />
 
 
 #
 
 8. Confirm the extension appears in the extensions list
+<img width="1385" height="655" alt="image" src="https://github.com/user-attachments/assets/215d5d58-8501-4eab-8dbc-9cae84860fcb" />
 
 
 #
