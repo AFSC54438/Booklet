@@ -2,7 +2,9 @@
 
 **Booklet** is a Chrome extension that provides quick access to **Cambridge International (CIE) IGCSE and AS/A Level past papers** through a simple and clean interface.
 
-## Installation Instructions
+---
+
+## Installation
 
 ### 1. Click the green **Code** button on this page and select **Download ZIP**
 <img width="500" height="381" alt="Screenshot 2025-12-23 151356" src="https://github.com/user-attachments/assets/d8a4d57c-ef54-46fd-8b84-1fe970ae65da" />
@@ -46,5 +48,10 @@
 ### 8. Pin the extension by clicking the **puzzle icon** in the toolbar and selecting the **pin** icon next to **Booklet**
 <img width="500" height="389" alt="image" src="https://github.com/user-attachments/assets/2b213d34-1176-4916-9e6f-7b00af53687f" />
 
-
 #
+
+---
+
+## Update
+
+### 1. 
