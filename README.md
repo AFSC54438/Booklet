@@ -9,7 +9,9 @@
 1. Click the green **Code** button on this page and select **Download ZIP**
 <img width="637" height="96" alt="image" src="https://github.com/user-attachments/assets/f92696de-6a2b-42f9-994d-8d497d93e0e6" />
 
-2. Extract the ZIP file to a permanent folder on your computer (**do not delete or move this folder**)  
+2. Extract the ZIP file to a permanent folder on your computer (**do not delete or move this folder**)
+<img width="556" height="649" alt="image" src="https://github.com/user-attachments/assets/279d0dd6-8dbe-4426-bdc2-2b0fff43d870" />
+
 3. Open **Google Chrome**  
 4. In the address bar, go to `chrome://extensions/` and press **Enter**  
 5. Enable **Developer mode** using the toggle in the top-right corner  
