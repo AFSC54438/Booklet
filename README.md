@@ -14,7 +14,7 @@
 
 #
 
-3. Open **Google Chrome**  
+3. Open **Google Chrome**
 <img width="367" height="500" alt="image" src="https://github.com/user-attachments/assets/7ef1dc84-cdc9-477c-86d7-76067972250d" />
 
 #
@@ -24,11 +24,14 @@
 
 #
 
-6. Click **Load unpacked**  
+6. Click **Load unpacked**
+<img width="500" height="266" alt="image" src="https://github.com/user-attachments/assets/f4e822e3-d779-4ff8-bff8-41cca1b004e1" />
 
-7. Select the **extracted Booklet folder** (the folder containing `manifest.json`)  
+#
 
-8. Confirm the extension appears in the extensions list  
+7. Select the **extracted Booklet folder** (the folder containing `manifest.json`)
+
+8. Confirm the extension appears in the extensions list
 
 9. (Optional) Pin the extension by clicking the **puzzle icon** (🧩) in the toolbar and selecting the **pin** icon next to **Booklet**
 
