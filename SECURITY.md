@@ -1,20 +1,42 @@
-# Privacy Policy  
+# Security Policy
 
-Google Chrome Browser extension to download PDF files to a booklet format.  
+## Overview
 
-This extension does not collect, store, or share personal information. All processing happens locally in your browser.  
+This project is a Google Chrome browser extension that converts PDF files into a booklet format.  
+All functionality is executed locally within the user’s browser.
 
-## Data Collection  
-- No personal data is collected or transmitted.  
-- No cookies, analytics, or tracking are used.  
+No user data is transmitted, stored externally, or shared.
 
-## Permissions  
-Any permissions requested (e.g., storage, tabs) are used only to enable extension features. Data remains on your device.  
+## Data Handling & Privacy
 
-## Third-Party Services  
-The extension does not send data to external services or third parties.  
+- No personal data is collected, stored, or transmitted.
+- All PDF processing occurs entirely on the client side.
+- No cookies, analytics, telemetry, or tracking mechanisms are used.
 
-## Updates  
-Changes to this policy will be reflected here with an updated date.  
+## Permissions
 
-_Last updated: September 2, 2025_  
+Any permissions requested by the extension (such as access to files or browser storage) are strictly limited to enabling core features of the extension.
+
+- Data accessed by these permissions remains on the user’s device.
+- No permission is used for background data collection or monitoring.
+
+## Third-Party Services
+
+- The extension does not communicate with external servers.
+- No third-party APIs, analytics tools, or services are used.
+
+## Reporting Security Vulnerabilities
+
+If you discover a security vulnerability, please report it responsibly:
+
+- Open a **private issue** on the repository, or
+- Contact the repository owner directly via GitHub.
+
+Please do **not** disclose security issues publicly until they have been reviewed and addressed.
+
+## Updates
+
+This security policy may be updated as the project evolves.  
+All changes will be documented in this file.
+
+_Last updated: December 23, 2025_
