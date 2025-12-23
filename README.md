@@ -43,7 +43,8 @@
 
 #
 
-9. (Optional) Pin the extension by clicking the **puzzle icon** (🧩) in the toolbar and selecting the **pin** icon next to **Booklet**
+9. Pin the extension by clicking the **puzzle icon** in the toolbar and selecting the **pin** icon next to **Booklet**
+<img width="500" height="389" alt="image" src="https://github.com/user-attachments/assets/2b213d34-1176-4916-9e6f-7b00af53687f" />
 
 
 #
