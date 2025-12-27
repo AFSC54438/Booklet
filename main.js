@@ -77,6 +77,7 @@ const moonIcon = document.getElementById("moonIcon");
 
 function main()
 {
+    console.log("chrome extension is running!");
     initialize_theme();
 
     themeToggle.addEventListener("click", async () => {
@@ -532,19 +533,33 @@ async function save_bookmark(new_entry)
             result[STORAGE_BOOKMARKED_SUBJ_KEY];
 
         if (Array.isArray(currentArray))
-        {
-            currentArray.push(new_entry);
+        {   
+            const paper_exists = currentArray.some(currentArray => {return currentArray["id"] === new_entry["id"]});
+            if (paper_exists)
+            {
+                console.log("already exists");
+            }
+            else
+            {
+                console.log("bookmarking new paper");
+                currentArray.push(new_entry);
+                await chrome.storage.local.set({
+                    [STORAGE_BOOKMARKED_SUBJ_KEY]:
+                        currentArray
+                });
+            }
+                
         }
         else
         {
             currentArray = [new_entry];
+            await chrome.storage.local.set({
+                [STORAGE_BOOKMARKED_SUBJ_KEY]:
+                    currentArray
+            });
         }
 
-        await chrome.storage.local.set({
-            [STORAGE_BOOKMARKED_SUBJ_KEY]:
-                currentArray
-        });
-
+        console.log(currentArray);
         switch_tab(BOOKMARK_TAB);
         populate_table();
     }
@@ -679,7 +694,7 @@ function populate_table()
                 searchBtn.className = 'text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 transition-colors';
                 searchBtn.title = 'Search';
                 searchBtn.innerHTML = `
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="transition-transform ease-in-out hover:scale-110 cursor-pointer w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
                     </svg>
                 `;
@@ -690,7 +705,7 @@ function populate_table()
                 deleteBtn.className = 'text-red-500 hover:text-red-700 dark:text-red-400 dark:hover:text-red-300 transition-colors';
                 deleteBtn.title = 'Delete';
                 deleteBtn.innerHTML = `
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="transition-transform ease-in-out hover:scale-110 cursor-pointer w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/>
                     </svg>
                 `;
